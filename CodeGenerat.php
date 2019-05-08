@@ -6,7 +6,7 @@
  * Time: 18:13
  */
 
-namespace ofashion;
+namespace ole;
 
 
 class CodeGenerat
