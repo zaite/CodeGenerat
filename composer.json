@@ -1,0 +1,11 @@
+{
+    "name": "ofashion/codegenerat",
+    "description": "这是一个编码生成的包",
+    "license": "MIT",
+    "minimum-stability": "dev",
+    "autoload": {
+        "psr-4": {
+            "ofashion\\": ""
+        }
+    }
+}
