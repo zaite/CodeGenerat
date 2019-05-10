@@ -6,7 +6,7 @@
  * Time: 18:13
  */
 
-namespace ole;
+namespace Ole;
 
 
 class CodeGenerat
