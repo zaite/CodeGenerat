@@ -6,10 +6,10 @@
  * Time: 18:13
  */
 
-namespace Ole;
+namespace OFashion\CodeGenerate;
 
 
-class CodeGenerat
+class CodeGenerate
 {
     /**
      * @param $length
