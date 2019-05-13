@@ -1,11 +1,11 @@
 {
-    "name": "ole/codegenerat",
-    "description": "这是一个编码生成的包",
+    "name": "ofashion/unique-code-generate",
+    "description": "这是一个努力生成唯一编码的包",
     "license": "MIT",
     "minimum-stability": "dev",
     "autoload": {
         "psr-4": {
-            "Ole\\": ""
+            "OFashion\\CodeGenerate\\": ""
         }
     }
 }
